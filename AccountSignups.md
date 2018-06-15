@@ -5,7 +5,7 @@ In this course, one of our first steps is establishing a online public profile. 
 Humanities Commons will be a hub for much of our initial activity, acting as a repository for much of the information about each student's online profile. 
 
 Visit [here](https://registry.hcommons.org/registry/co_petitions/start/coef:158) to sign up for a humanities commons profile.
-After you have successfully registered, and perhaps worked a little on your profile, search for the group "Medieval Book @ Carleton" (or go to https://hcommons.org/groups/medieval-book-carleton/) and click on the button in the header 
+After you have successfully registered, and perhaps worked a little on your profile, search for the group "Medieval Book @ Carleton" (or go to the group's [url](https://hcommons.org/groups/medieval-book-carleton/)) and click on the button in the header, "Join group".
 
 #Twitter
 
