@@ -7,20 +7,20 @@ Humanities Commons will be a hub for much of our initial activity, acting as a r
 Visit [here](https://registry.hcommons.org/registry/co_petitions/start/coef:158) to sign up for a humanities commons profile.
 After you have successfully registered, and perhaps worked a little on your profile, search for the group "Medieval Book @ Carleton" (or go to the group's [url](https://hcommons.org/groups/medieval-book-carleton/)) and click on the button in the header, "Join group".
 
-#Twitter
+# Twitter
 
-#Omeka
+# Omeka
 
-#ORCID
+# ORCID
 
-#Slack
+# Slack
 
-#Github
+# Github
 
 A help guide for writing .md (Markdown) files. Text files on Github are usually written in this fashion. https://help.github.com/categories/writing-on-github/
 
-#Zotero
+# Zotero
 
-#Hypothes.is
+# Hypothes.is
 
 
