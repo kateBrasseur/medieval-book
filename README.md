@@ -1,3 +1,3 @@
-# medieval-book
-Work in progress, developing a site to display and catalogue medieval manuscripts at Carleton University (Ottawa)
-MdvlBook
+# Medieval Book
+Work in progress, developing a support site for an undergraduate seminar on how to to display and catalogue the medieval manuscripts at Carleton University (Ottawa)
+
