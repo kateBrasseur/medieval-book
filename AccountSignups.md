@@ -13,10 +13,10 @@ After you have successfully registered, and perhaps worked a little on your prof
 
 # Twitter
 
-We want to get you on the Twitter to encourage you to get familiar with what digital medievalists are talking about, what they are reading and writing about. Twitter operates like medieval *fama* – an echo chamber of speech flitting about spreading rumours. With the immediacy of digital pseudo-presence,  Twitter collapses distance and difference. It is rarely obvious who is a senior scholar and who is a student, who is an interested on-looker and who is a hyper-specialist. Our goal in engaging with Twitter is for each of you to use it as a way to do some superficial research, network with other likeminded scholars and put yourself (and your work) out there....
+We want to get you on the Twitter to encourage you to get familiar with what digital medievalists are talking about, what they are reading and what they are writing about. Twitter operates like medieval *fama* – an echo chamber of speech flitting about spreading rumours. With the immediacy of digital pseudo-presence,  Twitter collapses distance and difference. It is rarely obvious who is a senior scholar and who is a student, who is simply an interested on-looker and who is a hyper-specialist. Our goal in engaging with Twitter is for each of you to use it as a way to do some superficial research, network with other likeminded scholars and put yourself (and your work) out there....
 
-Sign up for Twitter here.
-Make sure to add your Twitter handle to your hcommons profile and once you're on our slack group, add your twitter to the channel, #twitter. 
+Sign up for Twitter [here](https://twitter.com/i/flow/signup).
+Make sure to add your Twitter handle to your hcommons profile and, once you've joined our [slack group](https://digitalarchiving.slack.com), add your twitter to the channel, #twitter. 
 
 Navigate to the professor's Twitter account and subscribe to the Twitter list [*DigitizingMedievalMss*](https://twitter.com/savrett/lists) on his [profile](https://twitter.com/savrett).
 
