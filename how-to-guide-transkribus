@@ -1,17 +1,17 @@
-##Transkribus
-###Downloading and Installing Transkribus
+## Transkribus
+### Downloading and Installing Transkribus
 To get started you will need to sign up for an account on the [Transkribus website](https://transkribus.eu/Transkribus/)
 Once you have your account set up, sign in and download the app for free. From here on out follow the subheading for **your operating system**.
 
-####I'm running a MacOs
+#### I'm running a MacOs
 1. Head to the folder where Transkribus.zip was downloaded to and unzip it into a folder of your choice (a good option is always your project/course folder). Transkribus might have been unzipped for you. In that case, simply move the folder to your project folder.
 2. Open the Transkribus folder and double click on the executable file (Transkribus.command).
 
-####I'm running Windows
+#### I'm running Windows
 1. Head to the folder where Transkribus.zip was downloaded to and unzip it into a folder of your choice (a good option is always your project/course folder). Transkribus might have been unzipped for you. In that case, simply move the folder to your project folder.
 2. Open the Transkribus folder and double click on the executable file (Transkribus.exe).
 
-####I'm running a Linux distribution
+#### I'm running a Linux distribution
 1. Open the terminal (Try Ctrl+Alt+T)
 2. Check your java version:
 	~$ java -version
